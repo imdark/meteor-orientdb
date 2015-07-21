@@ -1,0 +1,110 @@
+{
+  "dependencies": {
+    "orientjs": {
+      "version": "https://github.com/imdark/orientjs/archive/fd27c62a38f77dbf62ff7ddb3dfecaef01b8b8ba.tar.gz",
+      "dependencies": {
+        "bluebird": {
+          "version": "2.9.34"
+        },
+        "fast.js": {
+          "version": "0.1.1"
+        },
+        "parse-function": {
+          "version": "2.0.1",
+          "dependencies": {
+            "function-regex": {
+              "version": "1.0.2"
+            }
+          }
+        },
+        "request": {
+          "version": "2.34.0",
+          "dependencies": {
+            "qs": {
+              "version": "0.6.6"
+            },
+            "json-stringify-safe": {
+              "version": "5.0.1"
+            },
+            "forever-agent": {
+              "version": "0.5.2"
+            },
+            "node-uuid": {
+              "version": "1.4.3"
+            },
+            "mime": {
+              "version": "1.2.11"
+            },
+            "tough-cookie": {
+              "version": "2.0.0"
+            },
+            "form-data": {
+              "version": "0.1.4",
+              "dependencies": {
+                "combined-stream": {
+                  "version": "0.0.7",
+                  "dependencies": {
+                    "delayed-stream": {
+                      "version": "0.0.5"
+                    }
+                  }
+                },
+                "async": {
+                  "version": "0.9.2"
+                }
+              }
+            },
+            "tunnel-agent": {
+              "version": "0.3.0"
+            },
+            "http-signature": {
+              "version": "0.10.1",
+              "dependencies": {
+                "assert-plus": {
+                  "version": "0.1.5"
+                },
+                "asn1": {
+                  "version": "0.1.11"
+                },
+                "ctype": {
+                  "version": "0.5.3"
+                }
+              }
+            },
+            "oauth-sign": {
+              "version": "0.3.0"
+            },
+            "hawk": {
+              "version": "1.0.0",
+              "dependencies": {
+                "hoek": {
+                  "version": "0.9.1"
+                },
+                "boom": {
+                  "version": "0.4.2"
+                },
+                "cryptiles": {
+                  "version": "0.2.2"
+                },
+                "sntp": {
+                  "version": "0.2.4"
+                }
+              }
+            },
+            "aws-sign2": {
+              "version": "0.5.0"
+            }
+          }
+        },
+        "yargs": {
+          "version": "1.2.6",
+          "dependencies": {
+            "minimist": {
+              "version": "0.1.0"
+            }
+          }
+        }
+      }
+    }
+  }
+}
