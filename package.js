@@ -2,7 +2,7 @@ Package.describe({
   name: 'imdark:meteor-orientdb',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'OrientDb package for meteor',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/imdark/meteor-orientdb',
   // By default, Meteor will default to using README.md for documentation.
